@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0005-longest-palindromic-substring) |
 | [1894-merge-strings-alternately](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0005-longest-palindromic-substring) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -28,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0503-next-greater-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
