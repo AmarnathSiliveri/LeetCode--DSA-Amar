@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0503-next-greater-element-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Stack
@@ -34,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
