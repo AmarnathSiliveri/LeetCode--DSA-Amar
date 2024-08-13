@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0503-next-greater-element-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -58,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
