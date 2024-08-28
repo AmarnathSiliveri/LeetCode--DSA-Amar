@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
@@ -64,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
