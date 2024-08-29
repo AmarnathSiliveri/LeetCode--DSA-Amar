@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0027-remove-element) |
 | [1894-merge-strings-alternately](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
