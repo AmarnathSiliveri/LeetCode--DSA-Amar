@@ -5,9 +5,15 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums)):
-            for j in range(int(i+1),len(nums)):
-                if (int(nums[i]+nums[j])==target):
-                    return [i,j]
+        number_map={}
+        for i,num in enumerate(nums):
+            diff=target-num
+            if diff in number_map:
+                return [i,number_map[diff]]
+            number_map[num]=i
+
+        return None
+
+
 
  
