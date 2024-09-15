@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0074-search-a-2d-matrix) |
+| [0217-contains-duplicate](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0503-next-greater-element-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SilverStark18/LeetCode--DSA-Amar/tree/master/0268-missing-number) |
 ## Matrix
 |  |
